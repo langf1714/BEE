@@ -1,0 +1,155 @@
+{
+"words":
+[
+  {
+    "wordName":"Avuncular",
+    "wordDefinition":"Suggestive of an uncle especially in kindliness or geniality.",
+    "wordSentence":"Jovial and avuncular, the President's cheif of staff seems oblivious to the pressures that accompany what is arguably the second most powerful job in the land.",
+    "wordCost":"3"
+  },
+  {
+    "wordName":"Belligerent",
+    "wordDefinition":"Inclined to or exhibiting assertiveness, hostility, or combativeness.",
+    "wordSentence":"It took very little alcohol to make him belligerent, and he became even more thuggish and incoherent.",
+    "wordCost":"3"
+  },
+  {
+    "wordName":"Cliché",
+    "wordDefinition":"Something that has become overly familiar or commonplace.",
+    "wordSentence":"Non-Amateur writers avoid industriously the word Orwellian, because even years ago it became an overused and underdefined cliché.",
+    "wordCost":"2"
+  },
+  {
+    "wordName":"Determination",
+    "wordDefinition":"The act of deciding or being definite and firm.",
+    "wordSentence":"What he lacked in talent he made up for in determination.",
+    "wordCost":"2"
+  },
+  {
+    "wordName":"Exonerated",
+    "wordDefinition":"To be relieved of a responsibility, obligation, or hardship.",
+    "wordSentence":"The results of the DNA fingerprinting finally exonerated the man.",
+    "wordCost":"2"
+  },
+  {
+    "wordName":"Finesse",
+    "wordDefinition":"Refinement or delicacy of workmanship, structure, or texture.",
+    "wordSentence":"She handled the interview questions with finesse.",
+    "wordCost":"3"
+  },
+  {
+    "wordName":"Gratuitous",
+    "wordDefinition":"Not involving a return benefit, compensation, or consideration.",
+    "wordSentence":"They will throw in a gratuitous box of chocolates when you spend $30 or more in their shop.",
+    "wordCost":"2"
+  },
+  {
+    "wordName":"Hectic",
+    "wordDefinition":"Characterized by activity, excitement, or confusion.",
+    "wordSentence":"She maintains a hectic schedule as a journalist and mother.",
+    "wordCost":"1"
+  },
+  {
+    "wordName":"Intimidate",
+    "wordDefinition":"To make timid or fearful.",
+    "wordSentence":"You shouldn't allow his reputation to intimidate you.",
+    "wordCost":"2"
+  },
+  {
+    "wordName":"Juxtapose",
+    "wordDefinition":"To place different things side by side as to compare or contrast them or to create an interesting effect.",
+    "wordSentence":"Norway’s coastal regions juxtaposed with the dramatic mountains and fjords provide a lot of opportunities for dramatic pictures.",
+    "wordCost":"2"
+  },
+  {
+    "wordName":"Knowledgeable",
+    "wordDefinition":"Having or showing knowledge or intelligence.",
+    "wordSentence":"I'm fairly knowledgeable about wine.",
+    "wordCost":"4"
+  },
+  {
+    "wordName":"Lament",
+    "wordDefinition":"To express sorrow, mourning or regret.",
+    "wordSentence":"I will 0lament the day that Bitcoin stocks fall again.",
+    "wordCost":"1"
+  },
+  {
+    "wordName":"Monopoly",
+    "wordDefinition":"Exclusive ownership through legal privilege, command of supply, or concerted action.",
+    "wordSentence":"The government passed laws intended to break up a monopoly.",
+    "wordCost":"2"
+  },
+  {
+    "wordName":"Osteoarthritis",
+    "wordDefinition":"A common form of arthritis characterized by progressive changes in the cartilage of one or more joints.",
+    "wordSentence":"Parekh insists that osteoarthritis is no more likely to spread as the result of an ankle replacement than a knee or hip replacement.",
+    "wordCost":"5"
+  },
+  {
+    "wordName":"Photosynthesis",
+    "wordDefinition":"Syntehsis of chemical compounds with the aid of radiant energy and especially light.",
+    "wordSentence":"Plants use the sun to power photosyntehsis, which turns air and water into sugar.",
+    "wordCost":"5"
+  },
+  {
+    "wordName":"Query",
+    "wordDefinition":"A question in the mind.",
+    "wordSentence":"The librarian responded to my query.",
+    "wordCost":"2"
+  },
+  {
+    "wordName":"Resistance",
+    "wordDefinition":"An opposing or retarding force.",
+    "wordSentence":"They have shown a stubborn resistance to change.",
+    "wordCost":"3"
+  },
+  {
+    "wordName":"Surrender",
+    "wordDefinition":"To yield to the power, control, or possession of another upon compulsion or demand.",
+    "wordSentence":"The troops were forced to surrender the fort.",
+    "wordCost":"2"
+  },
+  {
+    "wordName":"Tardy",
+    "wordDefinition":"Delayed beyond the expected or proper time.",
+    "wordSentence":"They were tardy in filing the application.",
+    "wordCost":"1"
+  },
+  {
+    "wordName":"Unanimous",
+    "wordDefinition":"Being of one mind.",
+    "wordSentence":"The judges made a unanimous ruling.",
+    "wordCost":"3"
+  },
+  {
+    "wordName":"Vanity",
+    "wordDefinition":"Inflated pride in oneself or one's appearance.",
+    "wordSentence":"The handsome actor's vanity was well-known.",
+    "wordCost":"1"
+  },
+  {
+    "wordName":"Weather",
+    "wordDefinition":"The state of the atmosphere with respect to temperature, precipitation, and cloudiness.",
+    "wordSentence":"The weather has ben sub-par for the past few days.",
+    "wordCost":"2"
+  },
+  {
+    "wordName":"Xylophone",
+    "wordDefinition":"A percussion instrument consiting of a series of wooden bars graduated in length.",
+    "wordSentence":"Who the hell even knows how to play the xylophone?",
+    "wordCost":"3"
+  },
+  {
+    "wordName":"Yonder",
+    "wordDefinition":"At or in an indicated distance within sight.",
+    "wordSentence":"We should head for that windmill over yonder.",
+    "wordCost":"1"
+  },
+  {
+    "wordName":"Ziggurat",
+    "wordDefinition":"An ancient Mesopotamian temple tower consisting of a lofty pyramidal structure built in successive stages.",
+    "wordSentence":"Eventually, farmers' offspring built hte ziggurats of Mesopotamia.",
+    "wordCost":"3"
+  }
+]
+}

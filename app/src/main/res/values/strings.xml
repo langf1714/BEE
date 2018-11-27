@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">BEE</string>
+    <string-array name="rules">
+        <item>Introduction</item>
+        <item>Scoring</item>
+        <item>Bonuses</item>
+    </string-array>
+    <string-array name="description">
+        <item>Welcome to BEE, the Drinking Spelling Game! In this game, players take turns either
+        telling another player what word they have to spell or spelling said word. The game continues
+        until the players decide to end it or the words run out. After inputing all of the player's
+        names, the game starts with a random player that holds the phone (known as the Host) with the
+        chosen word. He tells the player to his right (the Reader) what the word is, and the Reader
+        has a chance to ask the Host what the word's definition is and to hear the word in a sentence.
+        </item>
+        <item>The Reader attempts to spell the word, and the Host presses whichever button
+        determines if the Reader was right or wrong. If the Reader was correct, the Host has to take
+        as many sips as the word is worth (the Cost). If the Reader was incorrect, the Reader has to
+        take as many sips equal to the word's Cost. The Host then passes the phone to the Reader and
+        the new Reader chooses a new word, repeating the cycle until the game ends. All scores must
+        be entered manually. After the players unanimously agree to end the game, the current
+        Host presses the "End Game" button and the person with the highest score wins.</item>
+        <item>In order to spice the game up a bit towards the end and during, there are a handful of
+        additional rules and bonuses that the players can decide on using. They are as follows:
+        *Final Shot: At the end of the game, the player with the lowest score has to take a shot. If
+        there is a tie, tough luck, you're both taking shots.
+        *Team Games: If there is an even amount of players, they can break themselves up into two
+        teams, with the Host being a random person from Team A and the Reader being a selected person
+        from Team B. If the Reader team answers correctly, all members of the Host team have to drink,
+        and vice versa for if the Reader team is incorrect. The team with the highest score wins.</item>
+    </string-array>
+</resources>
